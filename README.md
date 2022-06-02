@@ -2,7 +2,7 @@
 
 ## _Como ser mais produtivo?_
 
-### 1 - Planeje seu dia com antecedência. Na noite anterior, faça uma lista de tarefas3
+### 1 - Planeje seu dia com antecedência
 ### 2 - Tenha uma agenda
 ### 3 - Defina prioridades
 ### 4 - Faça uma tarefa por vez
